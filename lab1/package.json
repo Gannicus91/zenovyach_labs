@@ -1,0 +1,15 @@
+{
+  "name": "zenovych",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "run": "node index.js"
+  },
+  "author": "m.dzhivanyn",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}
