@@ -1,0 +1,16 @@
+S -> ~
+S -> E
+E -> T
+E -> E+T
+E -> E-T
+T -> F
+T ->T*F
+T ->T/F
+F -> -F
+F -> (E)
+F -> V
+F -> C
+V -> x
+V -> y
+V -> z
+C -> const
